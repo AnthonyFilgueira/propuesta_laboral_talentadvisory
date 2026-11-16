@@ -1,0 +1,9 @@
+{
+    "host": "propuesta-laboral-talentadvisory.innodite.com",
+    "nombre": "Talent Advisory (Software Architect, aseguradora)",
+    "codigos": {
+        "ta1": "Postulación en Indeed",
+        "ta2": "Nota de conexión de LinkedIn"
+    },
+    "minimo": false
+}
